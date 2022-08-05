@@ -1,0 +1,7 @@
+/.metadata/
+email
+acc no
+id
+name cannot be null
+DoB 10 length string like 15041997.
+Use bool for if passwords match
